@@ -1,1 +1,1 @@
-# Ejemploleoneo
+Este es un taller mostrando lo que se aprendio en git 
